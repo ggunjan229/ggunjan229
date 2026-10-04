@@ -2,7 +2,7 @@
 
 ### Data Analyst & Analytics Engineer
 
-## B.Tech CS (9.49 GPA) | GATE DA '26 Qualified | IIT Madras Elite (Top 5% LLMs)
+## B.Tech CS (9.49 GPA) | IIT Madras Elite (Top 5% LLMs) | GATE DA '26 Qualified
 
 I build data pipelines, predictive machine learning models, and interactive business intelligence systems. From exploratory analysis and statistical modeling to building dimensional schemas and BI dashboards, I turn complex data into clear, scalable, and actionable solutions.
 
