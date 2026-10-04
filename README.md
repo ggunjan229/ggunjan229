@@ -1,8 +1,9 @@
-# Hi 👋 My name is Gunjan
+# Hi 👋 My name is Gunjan Gupta
 
 ### Data Analyst & Analytics Engineer
 
-B.Tech CS (9.49 GPA) | GATE DA '26 Qualified | IIT Madras Elite (Top 5% LLMs)
+## B.Tech CS (9.49 GPA) | GATE DA '26 Qualified | IIT Madras Elite (Top 5% LLMs)
+
 I build data pipelines, predictive machine learning models, and interactive business intelligence systems. From exploratory analysis and statistical modeling to building dimensional schemas and BI dashboards, I turn complex data into clear, scalable, and actionable solutions.
 
 - 📍 I’m based in India, Haryana
@@ -71,7 +72,7 @@ I build data pipelines, predictive machine learning models, and interactive busi
   <a href="https://www.linkedin.com/in/gunjan-gupta-047a792b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://leetcode.com/u/ggunjan229/" target="_blank">
+  <a href="https://leetcode.com/u/ggunjan229/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
