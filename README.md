@@ -49,17 +49,17 @@ I build data pipelines, predictive machine learning models, and interactive busi
 
 ### 🚀 Featured Analytics & Engineering Projects
 
-#### 1. [FixMate](https://github.com/ggunjan229/FixMate)
-* An intelligent platform designed to streamline device repair workflows and user diagnostics.
-
-#### 2. [RupyaVasool — Transform Abandoned Carts into Loyal Customers](https://github.com/ggunjan229/RupyaVasool-Transform_Abandoned_Carts_into_Loyal_Customers)
-* E-commerce retention solution diagnosing checkout friction, abandoned cart patterns, and customer re-engagement economics.
-
-#### 3. [Omnichannel Sales Performance & Cohort Retention Engine](https://github.com/ggunjan229/E-Commerce-Omnichannel-Sales-Performance-Cohort-Retention)
+#### 1. [Omnichannel Sales Performance & Cohort Retention Engine](https://github.com/ggunjan229/E-Commerce-Omnichannel-Sales-Performance-Cohort-Retention)
 * End-to-end commercial analytics pipeline across 100k+ orders featuring PostgreSQL star schemas, NTILE RFM segmentation, 12-month cohort retention triangles, and dynamic Excel freight leakage audits.
 
-#### 4. [Consumer Complaint Intelligence Platform](https://github.com/ggunjan229/Consumer-Complaint-Intelligence)
+#### 2. [Consumer Complaint Intelligence Platform](https://github.com/ggunjan229/Consumer-Complaint-Intelligence)
 * Analytical reporting and KPI dashboard engineered with DuckDB and Power BI to monitor issue severity trends, resolution SLAs, and complaint distributions across financial products.
+
+#### 3. [FixMate](https://github.com/ggunjan229/FixMate)
+* An intelligent platform designed to streamline device repair workflows and user diagnostics.
+
+#### 4. [RupyaVasool - Transform Abandoned Carts into Loyal Customers](https://github.com/ggunjan229/RupyaVasool-Transform_Abandoned_Carts_into_Loyal_Customers)
+* E-commerce retention solution diagnosing checkout friction, abandoned cart patterns, and customer re-engagement economics.
 
 ---
 
