@@ -58,9 +58,6 @@ I build data pipelines, predictive machine learning models, and interactive busi
 #### 3. [FixMate](https://github.com/ggunjan229/FixMate)
 * An intelligent platform designed to streamline device repair workflows and user diagnostics.
 
-#### 4. [RupyaVasool - Transform Abandoned Carts into Loyal Customers](https://github.com/ggunjan229/RupyaVasool-Transform_Abandoned_Carts_into_Loyal_Customers)
-* E-commerce retention solution diagnosing checkout friction, abandoned cart patterns, and customer re-engagement economics.
-
 ---
 
 ### 🌐 Connect & Coding Profiles
